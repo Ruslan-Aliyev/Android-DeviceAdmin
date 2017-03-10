@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeviceAdmin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sample_device_admin">App as a Device Admin App</string>
+    <string name="device_admin_explain">Make App into a Device Admin App</string>
+    <string name="admin_receiver_status">App is a Device Admin App</string>
+    <string name="admin_receiver_status_enabled">App enabled as a Device Admin App</string>
+    <string name="admin_receiver_status_disable_warning">You will disable App as a Device Admin App</string>
+    <string name="admin_receiver_status_disabled">App disabled as a Device Admin App</string>
+
+</resources>
